@@ -1,0 +1,67 @@
+消息类型    : RSM
+===============================
+msgCnt: 25
+id: 01 02 03 04 05 06 07 08
+refPos:
+   lat: 304955270
+   long: 1141754300
+participants:
+   ParticipantData 0
+       ptcType: 1
+       ptcId: 123
+       source: 2
+       secMark: 12345
+       pos:
+               lon: 1112222220
+               lat: 334444440
+           offsetV: 56
+       posConfidence:
+           pos: 8
+           elevation: 8
+       transmission: 7
+       speed: 211
+       heading: 13495
+       motionCfd:
+           speedCfd: 3
+           headingCfd: 4
+           steerCfd: 3
+       accelSet:
+           long: 100
+           lat: 100
+           vert: 50
+           yaw: 100
+       size:
+           width: 180
+           length: 490
+           height: 30
+       vehicleClass:
+           classification: 10
+   ParticipantData 1
+       ptcType: 1
+       ptcId: 123
+       source: 2
+       secMark: 12345
+       pos:
+               lon: 1112222220
+               lat: 334444440
+           offsetV: 56
+       posConfidence:
+           pos: 8
+           elevation: 8
+       transmission: 7
+       heading: 13495
+       motionCfd:
+           speedCfd: 3
+           headingCfd: 4
+           steerCfd: 3
+       accelSet:
+           long: 100
+           lat: 100
+           vert: 50
+           yaw: 100
+       size:
+           width: 180
+           length: 490
+           height: 30
+       vehicleClass:
+           classification: 10

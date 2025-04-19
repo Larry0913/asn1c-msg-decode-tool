@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "asn_application.h": "c",
+        "msg.h": "c",
+        "messageframe.h": "c"
+    }
+}
